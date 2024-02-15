@@ -24,12 +24,14 @@
     width: 70%;
     height: 100%;
     margin: none;
+    padding: none;
+    background: #0074D9;
 }
 #menu ul{
     text-align: center;
     float: right;
     margin: none;
-    background: #0074D9;
+    padding: none;
 }
 #menu li{
     display: inline-block;
